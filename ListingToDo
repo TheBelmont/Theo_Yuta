@@ -1,0 +1,18 @@
+What techniques are needed to create a general program program?
+(This could be better stored on a spreadsheet)
+1) Managment and use of many files, in multiple directories.
+2) Python GUI
+3) File reading/writing libraries
+4) Higher quality UI than just commandline/terminal
+5) Web page reading writing-to libraries
+6) User navigation code
+7) Funationality:
+	*calculator
+	*graphing
+	*open apps/websites on a browser
+	*give weather (for area? how to find location/enter location)
+	*store/read notes (redundant but whatver
+	*help make and print out to-do lists with timelines (planners)
+	*...
+	
+N)...
